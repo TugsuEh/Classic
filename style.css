@@ -1,0 +1,40 @@
+body {
+  padding: 0;
+  margin: 0;
+  color: rgb(29, 48, 216);
+  overflow: hidden;
+}
+.page {
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 0 4rem;
+}
+.page a {
+  padding: 8px 20px;
+  background-color: black;
+  text-decoration: none;
+  color: rgb(255, 123, 123);
+  border-radius: 5px;
+}
+#page1 {
+  background: url(https://media.architecturaldigest.com/photos/627413c3dc4238dbdabb8338/16:9/w_2560%2Cc_limit/GettyImages-1236225483.jpg)
+    no-repeat center center/cover;
+}
+#page2 {
+  background: url(31bacf88-f70e-4fae-b028-4fd7f7546075.jpg) no-repeat center
+    center/cover;
+}
+#page3 {
+  background: url(https://to-name.ru/images/historical-events/statue-liberty-usa.jpg)
+    no-repeat center center/cover;
+}
+#page4 {
+  background: url(https://www.thestatesman.com/wp-content/uploads/2018/09/Mongolia.jpg);
+}
+#page5 {
+  background: url(https://content.api.news/v3/images/bin/2ccf74f7acb12c2fe7c06ca92f1d31fc);
+}
