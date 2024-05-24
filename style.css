@@ -33,8 +33,10 @@ body {
     no-repeat center center/cover;
 }
 #page4 {
-  background: url(https://www.thestatesman.com/wp-content/uploads/2018/09/Mongolia.jpg);
+  background: url(https://www.thestatesman.com/wp-content/uploads/2018/09/Mongolia.jpg)
+    no-repeat center center/cover;
 }
 #page5 {
-  background: url(https://content.api.news/v3/images/bin/2ccf74f7acb12c2fe7c06ca92f1d31fc);
+  background: url(https://content.api.news/v3/images/bin/2ccf74f7acb12c2fe7c06ca92f1d31fc)
+    no-repeat center center/cover;
 }
